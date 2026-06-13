@@ -1,0 +1,19 @@
+.git
+.github
+.gitignore
+.idea
+.pytest_cache
+__pycache__
+**/__pycache__
+*.pyc
+venv
+i-try
+tests
+example.gif
+*.md
+*.MD
+LICENSE
+CONTRIBUTING.md
+tests.bat
+# Never copy keys or certs into the image.
+*.pem
